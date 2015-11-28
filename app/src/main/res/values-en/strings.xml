@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Fisio Vida Plus</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_olvPass">Recover password</string>
+    <string name="action_about">About....</string>
+    <string name="main_information">Mensaje Item Informacion</string>
+    <string name="txtCorreo">E-mail</string>
+    <string name="lblCorreo">User</string>
+    <string name="txtPass">Password</string>
+    <string name="lblPass">Password</string>
+    <string name="btnIniciar">Sign in</string>
+    <string name="btnCrearCuenta">Sign up</string>
+    <string name="lblOlvidoPass">Forgot the password?</string>
+    <string name="lblRegistro">Sign on</string>
+    <string name="lblUsuario">E-mail*</string>
+    <string name="lblPassword">Password*</string>
+    <string name="lblNombre">First Name*</string>
+    <string name="txtNombre">First Name</string>
+    <string name="lblEstatura">Height*</string>
+    <string name="txtEstatura">Height(ft)</string>
+    <string name="lblFecNac">Date of birth*</string>
+    <string name="txtFecNac">dd/mm/yyyy</string>
+    <string name="lblMenuMain">Main Menu</string>
+    <string name="txtAyudaPresion">Blood Pressure Values</string>
+    <string name="txtAyudaGlucometria">Glucose Measurement Values</string>
+    <string name="txtMenuPresion">Blood Pressure</string>
+    <string name="txtMenuGlucometria">Glucose Measurement</string>
+    <string name="txtMenuIMC">Body Mass Index (IMC)</string>
+    <string name="txtAyudaIMC">Body Mass Index values(IMC)</string>
+    <string name="txtMenuIndicadores">Indicators</string>
+    <string name="txtAyudaIndicadores">
+        Values of: \n - Fat Percentage
+                    \n - Muscle Percentage
+                    \n - Abdominal Fat Index
+                    \n - Weight(Kg)
+    </string>
+    <string name="txtMenuEstadistica">Statistics</string>
+    <string name="txtMenuRegistros">Medical Records</string>
+    <string name="txtValorSistolica">Systolic</string>
+    <string name="txtValorDiastolica">Diastolic</string>
+    <string name="txtGuardarOpPresion">Save</string>
+    <string name="txtGuardarOpGlucometria">Save</string>
+    <string name="lblValorGlucometria">Blood Sugar Amount</string>
+    <string name="lblTitRecGlucometria">Recomendations before to take the test:</string>
+    <string name="lblRecGlucometria">
+                    \n - 1. Not eating two hours before the test.
+                    \n - 2. Be at rest (Still).
+    </string>
+    <string name="lblGenero">Gender*</string>
+    <string name="lblIMC">IMC</string>
+    <string name="lblGrasaViceral">% Visceral Fat</string>
+    <string name="lblMucuCorporal">% Body Musculature</string>
+</resources>

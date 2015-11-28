@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Fisio Vida Plus</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_olvPass">Recuperar Contraseña</string>
+    <string name="action_about">Acerca de...</string>
+    <string name="main_information">Mensaje Item Informacion</string>
+    <string name="txtCorreo">Correo Electronico</string>
+    <string name="lblCorreo">Usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="lblPass">Contraseña</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="btnCrearCuenta">Crear Cuenta</string>
+    <string name="lblOlvidoPass">Olvidó su contraseña?</string>
+    <string name="lblRegistro">Registro</string>
+    <string name="lblUsuario">Correo Electrónico*</string>
+    <string name="lblPassword">Contraseña*</string>
+    <string name="lblNombre">Nombre*</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="lblEstatura">Estatura*</string>
+    <string name="txtEstatura">Estatura en metros (m)</string>
+    <string name="lblFecNac">Fecha de Nacimiento*</string>
+    <string name="txtFecNac">dd-MM-aaaa</string>
+    <string name="lblMenuMain">Menu Principal</string>
+    <string name="txtAyudaPresion">Valores de: Presion Arterial</string>
+    <string name="txtAyudaGlucometria">Valores de: Glucometría</string>
+    <string name="txtMenuPresion">Presion Arterial</string>
+    <string name="txtMenuGlucometria">Glucometría</string>
+    <string name="txtMenuIMC">Indice de Masa Corporal (IMC)</string>
+    <string name="txtAyudaIMC">Valores de: Indice de Masa Corporal (IMC)</string>
+    <string name="txtMenuIndicadores">Indicadores</string>
+    <string name="txtAyudaIndicadores">
+        Valores de: \n - Porcentaje de Grasa
+                    \n - Porcentaje de Musculo
+                    \n - Indice de Grasa Abdominal
+                    \n - Peso (Kg)
+    </string>
+    <string name="txtMenuEstadistica">Estadísticas</string>
+    <string name="txtMenuRegistros">Registros</string>
+    <string name="txtValorSistolica">Sistólica</string>
+    <string name="txtValorDiastolica">Diastólica</string>
+    <string name="txtGuardarOpPresion">Guardar</string>
+    <string name="txtGuardarOpGlucometria">Guardar</string>
+    <string name="lblValorGlucometria">Nivel de Azucar en la Sangre</string>
+    <string name="lblTitRecGlucometria">Recomendaciones antes de realizar la muestra:</string>
+    <string name="lblRecGlucometria">
+                    \n - 1. No haber comido 2 horas antes de la prueba.
+                    \n - 2. Estar en reporso.
+    </string>
+    <string name="lblGenero">Genero*</string>
+    <string name="lblIMC">IMC</string>
+    <string name="lblGrasaViceral">% Grasa Viceral</string>
+    <string name="lblMucuCorporal">% Musculatura Corporal</string>
+    <string name="MsgUsuPassErrados">Usuario y/o Contraseña Inválidos</string>
+    <string name="MsgCamposCuenta">Debe Diligenciar todos los campos</string>
+    <string name="MsgErrorEstatura">Valor de estatura errado</string>
+    <string name="MsgCamposGluco">Valor de estatura errado</string>
+    <string name="MsgValGluco">Valor ingresado fuera del rango</string>
+    <string name="MsgValPorcMusc">Valor ingresado fuera del rango</string>
+    <string name="MsgValViceral">Valor ingresado fuera del rango</string>
+    <string name="MsgValSistolica">Valor ingresado presion sistolica fuera del rango</string>
+    <string name="MsgValDiastolica">Valor ingresado presion diastolica fuera del rango</string>
+    <string name="lblPeso">Peso</string>
+    <string name="lblPesoHint">Peso en Kg</string>
+    <string name="MsgDatosGuardados">Datos Guardados</string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
